@@ -1,2 +1,3 @@
 # onm-api
-OnionMail PHP API
+## OnionMail PHP API
+This is the OnionMail's PHP API interfaces.
